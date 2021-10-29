@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fan的小破站~</title>
+  
+  <subtitle>今天不学习，明天变垃圾</subtitle>
+  <link href="https://fanll-1.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://fanll-1.github.io/"/>
+  <updated>2021-10-17T13:23:00.003Z</updated>
+  <id>https://fanll-1.github.io/</id>
+  
+  <author>
+    <name>Fan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>node.js模块化开发</title>
+    <link href="https://fanll-1.github.io/2021/10/17/nodejs-01/"/>
+    <id>https://fanll-1.github.io/2021/10/17/nodejs-01/</id>
+    <published>2021-10-17T13:11:37.000Z</published>
+    <updated>2021-10-17T13:23:00.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;模块化开发基础&quot;&gt;&lt;a href=&quot;#模块化开发基础&quot; class=&quot;headerlink&quot; title=&quot;模块化开发基础&quot;&gt;&lt;/a&gt;模块化开发基础&lt;/h2&gt;&lt;h3 id=&quot;JavaScript开发问题&quot;&gt;&lt;a href=&quot;#JavaScript开发问题&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="node.js" scheme="https://fanll-1.github.io/categories/node-js/"/>
+    
+    
+    <category term="node.js" scheme="https://fanll-1.github.io/tags/node-js/"/>
+    
+    <category term="模块化开发" scheme="https://fanll-1.github.io/tags/%E6%A8%A1%E5%9D%97%E5%8C%96%E5%BC%80%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Set 与 Map 的用法</title>
+    <link href="https://fanll-1.github.io/2021/10/12/es6-1/"/>
+    <id>https://fanll-1.github.io/2021/10/12/es6-1/</id>
+    <published>2021-10-12T04:46:44.000Z</published>
+    <updated>2021-10-12T10:31:12.660Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;set&quot;&gt;&lt;a href=&quot;#set&quot; class=&quot;headerlink&quot; title=&quot;set&quot;&gt;&lt;/a&gt;set&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;类似于&lt;code&gt;数组&lt;/code&gt;，成员值&lt;code&gt;唯一&lt;/code&gt;&lt;br&gt;生成方法：</summary>
+        
+      
+    
+    
+    
+    <category term="javascript" scheme="https://fanll-1.github.io/categories/javascript/"/>
+    
+    
+    <category term="es6" scheme="https://fanll-1.github.io/tags/es6/"/>
+    
+    <category term="set" scheme="https://fanll-1.github.io/tags/set/"/>
+    
+    <category term="map" scheme="https://fanll-1.github.io/tags/map/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人博客使用 ——如何上传一篇自己的文章</title>
+    <link href="https://fanll-1.github.io/2021/09/30/hexo-3/"/>
+    <id>https://fanll-1.github.io/2021/09/30/hexo-3/</id>
+    <published>2021-09-30T03:47:27.000Z</published>
+    <updated>2021-09-30T04:49:04.231Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;了解&quot;&gt;&lt;a href=&quot;#了解&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="个人博客" scheme="https://fanll-1.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Matery" scheme="https://fanll-1.github.io/tags/Matery/"/>
+    
+    <category term="Hexo" scheme="https://fanll-1.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人博客美化 Matery主题</title>
+    <link href="https://fanll-1.github.io/2021/09/27/hexo-2/"/>
+    <id>https://fanll-1.github.io/2021/09/27/hexo-2/</id>
+    <published>2021-09-27T00:30:29.000Z</published>
+    <updated>2021-09-30T03:36:38.515Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;下载&quot;&gt;&lt;a href=&quot;#下载&quot; class=&quot;headerlink&quot; title=&quot;下载&quot;&gt;&lt;/a&gt;下载&lt;/h2&gt;&lt;p&gt;点击 &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="个人博客" scheme="https://fanll-1.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Matery" scheme="https://fanll-1.github.io/tags/Matery/"/>
+    
+    <category term="Hexo" scheme="https://fanll-1.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人博客搭建 Hexo + github</title>
+    <link href="https://fanll-1.github.io/2021/09/25/ge-ren-bo-ke-da-jian/"/>
+    <id>https://fanll-1.github.io/2021/09/25/ge-ren-bo-ke-da-jian/</id>
+    <published>2021-09-25T00:30:29.000Z</published>
+    <updated>2021-09-30T04:40:58.223Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="个人博客" scheme="https://fanll-1.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Hexo" scheme="https://fanll-1.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://fanll-1.github.io/2021/09/23/hello-world/"/>
+    <id>https://fanll-1.github.io/2021/09/23/hello-world/</id>
+    <published>2021-09-23T10:20:22.954Z</published>
+    <updated>2021-09-23T10:20:22.955Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
